@@ -9,6 +9,10 @@ Aplicación basica de Redux en TypeScript.
 ```
 ts-node app-1.ts
 ```
+
+```
+ts-node app-2.ts
+```
 ## Npm dependecies
 * ts-node
 * tslib
