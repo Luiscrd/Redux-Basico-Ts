@@ -3,7 +3,7 @@
 </p>
 
 # Redux-Basico-Ts
-Aplicación basica de Redux en TypeScript.
+Aplicación básica de Redux creeada a mano en TypeScript.
 
 ## Iniciar
 ```
