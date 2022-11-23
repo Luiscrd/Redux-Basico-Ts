@@ -17,6 +17,10 @@ ts-node app-2.ts
 ```
 ts-node app-3.ts
 ```
+
+```
+ts-node app-4.ts
+```
 ## Npm dependecies
 * ts-node
 * tslib
