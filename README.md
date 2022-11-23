@@ -3,8 +3,13 @@
 </p>
 
 # Redux-Basico-Ts
+Aplicación basica de Redux en TypeScript
 
 ## Iniciar
 ```
 ts-node app-1.ts
 ```
+## Npm dependecies
+* ts-node
+* tslib
+* typescript
